@@ -5,7 +5,7 @@
 <p/>
 
 <p align="center">
-Me chamo Lucas, graduando em Análise e Desenvolvimento de sistemas e atuando como Full Stack Developer atualmente na @Sankhya. 
+Me chamo Lucas, graduando em Análise e Desenvolvimento de sistemas e atuando como Full Stack Developer. 
 </p>
 
 <p align="center">
