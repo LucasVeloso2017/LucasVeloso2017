@@ -14,7 +14,7 @@ Eu adoro jogar video-game e descobrir novos hobbies.
 <p/>
 
 <p align="center">
-Por aqui tenho conteúdo das principais tecnologias que uso como NodeJs,React,Angular,Typescriopt e Javascript.<br>
+Por aqui tenho conteúdo das principais tecnologias que uso como NodeJs,React,Angular,Typescript e Javascript.<br>
 Então sinta-se a vontade e dê uma explorada!
 <p/>
 
@@ -23,9 +23,9 @@ Então sinta-se a vontade e dê uma explorada!
 <div style="diplay:flex; border: 3px solid red" align="center">
 <!--  <img width="30%" align="right" alt="Github Image" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif"/> -->
 
-<img width="28%" align="top" alt="Alex Santos's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasVeloso2017&count_private=true&theme=dracula">
+<img width="28%" align="top" alt="Lucas github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasVeloso2017&count_private=true&theme=dracula">
   
-<img width="67%" alt="Alex Santos's github stats" src="https://github-readme-stats.vercel.app/api?username=LucasVeloso2017&show_icons=true&theme=tokyonight" />
+<img width="67%" alt="Lucas github stats" src="https://github-readme-stats.vercel.app/api?username=LucasVeloso2017&show_icons=true&theme=tokyonight" />
   
 <div/>
 
